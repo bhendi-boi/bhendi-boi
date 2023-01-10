@@ -1,34 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jyothikrishna
-=====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Jyothikrishna</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-React Dev
----------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhendi-boi&label=Profile%20views&color=0e75b6&style=flat" alt="bhendi-boi" /> </p>
 
-* 🌍  I'm based in Chennai, TN
-* 🖥️  See my portfolio [here](http://bhendi-boi.github.io/portfolio/)
-* 🚀  I'm currently working on [expense-tracker](http://expense-tracker-react-5eaa6.web.app/)
-* 🧠  I'm learning Firebase and Flutter
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhendi-boi" alt="bhendi-boi" /></a> </p>
 
-### Skills
+- 🔭 I’m currently working on [expense-tracker](https://expense-tracker-react-5eaa6.web.app/)
 
+- 🌱 I’m currently learning **Firebase**
 
+- 👨‍💻 All of my projects are available [here](https://bhendi-boi.github.io/portfolio/)
+
+- 📝 I regularly write articles on [dev community](https://dev.to/bhendi)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **bhendiisgreen@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://dev.to/bhendi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bhendi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jyothikrishnasajja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyothikrishnasajja" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhendiisgreen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhendiisgreen" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhendi-boi&show_icons=true&locale=en&layout=compact" alt="bhendi-boi" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/bhendi-boi"><img src="https://github-readme-stats.vercel.app/api?username=bhendi-boi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&show_icons=true" alt="bhendi-boi's GitHub stats" /></a>
-
-<a href="http://www.github.com/bhendi-boi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bhendi-boi&bg_color=22272e&color=ffffff&line=10b981&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/bhendi-boi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhendi-boi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=10b981&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhendi-boi&show_icons=true&locale=en" alt="bhendi-boi" /></p>

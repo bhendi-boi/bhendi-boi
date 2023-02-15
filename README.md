@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👨‍💻 All of my projects are available [here](https://bhendi-boi.github.io/portfolio/)
+- 👨‍💻 All of my projects are available [here](https://jyothikrishna.vercel.app/)
 
 - 📝 I regularly write articles on [dev community](https://dev.to/bhendi)
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhendi-boi" alt="bhendi-boi" /></a> </p>
 
-- 🔭 I’m currently working on [expense-tracker](https://expense-tracker-react-5eaa6.web.app/)
+- 🔭 I’m currently working on [alumni-portal](https://alumni-portal-alpha.vercel.app/)
 
 - 🌱 I’m currently learning **Firebase**
 

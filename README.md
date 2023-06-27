@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhendi-boi&label=Profile%20views&color=0e75b6&style=flat" alt="bhendi-boi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhendi-boi" alt="bhendi-boi" /></a> </p>
 
 - 🔭 I’m currently working on [alumni-portal](https://alumni-portal-alpha.vercel.app/)
 
@@ -38,6 +37,3 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhendi-boi&show_icons=true&locale=en&layout=compact" alt="bhendi-boi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhendi-boi&show_icons=true&locale=en" alt="bhendi-boi" /></p>

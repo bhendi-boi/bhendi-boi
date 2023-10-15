@@ -4,15 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhendi-boi&label=Profile%20views&color=0e75b6&style=flat" alt="bhendi-boi" /> </p>
 
 
-- 🔭 I’m currently working on [alumni-portal](https://alumni-portal-alpha.vercel.app/)
-
-- 🌱 I’m currently learning **Firebase**
+- 🔭 I’m currently working on [hex-cal](https://hex-cal.vercel.app/)
 
 - 👨‍💻 All of my projects are available [here](https://jyothikrishna.vercel.app/)
 
 - 📝 I regularly write articles on [dev community](https://dev.to/bhendi)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** and **TailwindCSS**
 
 - 📫 How to reach me **bhendiisgreen@gmail.com**
 
@@ -36,4 +34,5 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
  </p>
-
+ 
+[![An image of @bhendiboi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhendiboi)](https://holopin.io/@bhendiboi)

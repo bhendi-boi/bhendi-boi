@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhendi-boi&label=Profile%20views&color=0e75b6&style=flat" alt="bhendi-boi" /> </p>
 
 
-- 🔭 I’m currently working on Quantum measurement in a Memristive Quantum Computing Simulator
+- 🔭 I’m currently working on UVM TB Templates
 
 - 👨‍💻 All of my projects are available [here](https://jyothikrishna.vercel.app/)
 
